@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SVEEP Ludo Game - Privacy Policy</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f8f9fa;
+            color: #333;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #A05EB5;
+            text-align: center;
+            margin-bottom: 10px;
+            font-size: 2.4em;
+        }
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 20px;
+            font-style: italic;
+            font-size: 1.1em;
+        }
+        .dates {
+            text-align: center;
+            color: #888;
+            margin-bottom: 30px;
+            font-size: 0.9em;
+        }
+        h2 {
+            color: #7B3F99;
+            margin-top: 35px;
+            margin-bottom: 15px;
+            font-size: 1.4em;
+            border-left: 4px solid #A05EB5;
+            padding-left: 15px;
+        }
+        h3 {
+            color: #333;
+            margin-top: 25px;
+            margin-bottom: 12px;
+            font-size: 1.1em;
+            font-weight: 600;
+        }
+        p, li {
+            margin-bottom: 10px;
+        }
+        ul {
+            padding-left: 25px;
+        }
+        .highlight {
+            background-color: #f0e6f7;
+            padding: 20px;
+            border-radius: 8px;
+            border-left: 4px solid #A05EB5;
+            margin: 25px 0;
+        }
+        .important-notice {
+            background-color: #fff3cd;
+            border: 1px solid #ffeaa7;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 25px 0;
+        }
+        .contact-info {
+            background-color: #e8f4f8;
+            padding: 25px;
+            border-radius: 8px;
+            margin-top: 30px;
+        }
+        .legal-section {
+            background-color: #f8f9fa;
+            padding: 25px;
+            border-radius: 8px;
+            margin: 25px 0;
+            border: 1px solid #dee2e6;
+        }
+        .game-info {
+            background-color: #e6f3ff;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 25px 0;
+            text-align: center;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        strong {
+            color: #7B3F99;
+        }
+        .bold-heading {
+            font-weight: bold;
+            color: #A05EB5;
+            font-size: 1.1em;
+        }
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px;
+            }
+            body {
+                padding: 10px;
+            }
+            h1 {
+                font-size: 2em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy for SVEEP Ludo Game</h1>
+        <p class="subtitle">(Systematic Voters' Education and Electoral Participation - Ludo Game)</p>
+        
+        <div class="dates">
+            <strong>Effective Date:</strong> September 2025<br>
+            <strong>Last Updated:</strong> September 2025
+        </div>
+        
+        <div class="section">
+            <h2>Introduction</h2>
+            <p>Welcome to <strong>SVEEP Ludo Game</strong> (Systematic Voters' Education and Electoral Participation - Ludo Game), developed Under Guidance of <strong>जिला निर्वाचन कार्यालय श्रीगंगानगर</strong> (District Election Office Sri Ganganagar),<strong>नोडल अधिकारी स्वीप कम मुख्य कार्यकारी अधिकारी जिला परिषद श्रीगंगानगर </strong> (Nodal  Officer SVEEP Cum C.E.O. Zila Parishad  Sri Ganganagar) By <strong>Raman Kumar Asija</strong>. This privacy policy explains how we handle information when you use our educational game application designed to promote voter awareness and electoral participation in India.</p>
+        </div>
+
+        <div class="section">
+            <h2>Information We Collect</h2>
+            
+            <h3>Information You Provide</h3>
+            <ul>
+                <li><strong>Player Name:</strong> When you choose to enter your name for personalized gameplay</li>
+                <li><strong>Game Preferences:</strong> Your selected token color and difficulty level</li>
+                <li><strong>Audio Settings:</strong> Your music, sound effect, and haptic feedback preferences</li>
+                <li><strong>Game Settings:</strong> Auto AI turns, fast mode, and other gameplay preferences</li>
+            </ul>
+
+            <h3>Automatically Collected Information</h3>
+            <ul>
+                <li><strong>Game Statistics:</strong> Number of moves made, dice rolls, game duration, tokens captured, educational questions answered, well challenges completed, game completion status</li>
+                <li><strong>Device Information:</strong> Basic device compatibility information for optimal game performance</li>
+                <li><strong>Gameplay Data:</strong> Progress through electoral education content, safe zones reached, educational milestones achieved</li>
+            </ul>
+
+            <h3>Future Data Collection (Planned Updates)</h3>
+            <p>In future updates, we may collect additional information as provided by Google Play Store services:</p>
+            <ul>
+                <li><strong>App Usage Analytics:</strong> Total screen time and session duration via Google Analytics</li>
+                <li><strong>Download Statistics:</strong> App installation and update information</li>
+                <li><strong>Performance Metrics:</strong> Game performance and crash reports</li>
+                <li><strong>User Engagement:</strong> Feature usage and interaction patterns with educational content</li>
+                <li><strong>Advertising Data:</strong> Anonymous identifiers for serving relevant ads through Google AdMob</li>
+                <li><strong>Aggregated Data:</strong> Anonymous usage statistics for app improvement and electoral education effectiveness</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>How We Use Your Information</h2>
+            <p>We use the collected information solely to:</p>
+            <ul>
+                <li>Provide personalized gameplay experience with electoral education content</li>
+                <li>Track game progress and voting awareness learning statistics</li>
+                <li>Remember your preferences during gameplay sessions</li>
+                <li>Improve game performance and educational user experience</li>
+                <li>Measure effectiveness of SVEEP educational objectives</li>
+                <li>Support free app development through advertising revenue</li>
+                <li>Provide relevant educational content about voting processes</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Data Storage and Security</h2>
+            
+            <h3>Local Storage</h3>
+            <ul>
+                <li><strong>Game Data:</strong> All personal game data is stored locally on your device only</li>
+                <li><strong>Educational Progress:</strong> Your learning progress through SVEEP content is saved locally</li>
+                <li><strong>No Cloud Storage:</strong> We do not store personal game information on external servers</li>
+                <li><strong>Session-Based:</strong> Player names and preferences are retained for continuous gameplay</li>
+            </ul>
+
+            <h3>Online Data</h3>
+            <ul>
+                <li><strong>Analytics Data:</strong> Anonymous usage data may be sent to Google Analytics</li>
+                <li><strong>Advertising Data:</strong> Anonymous advertising metrics through Google AdMob</li>
+                <li><strong>Crash Reports:</strong> Technical data for app improvement (no personal information)</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Data Sharing and Third Parties</h2>
+            
+            <h3>No Current Personal Data Sharing</h3>
+            <p>We do not currently share, sell, or rent any personal game information to third parties. Your game progress, statistics, and educational achievements remain on your device.</p>
+
+            <h3>Google Play Services Integration</h3>
+            <ul>
+                <li><strong>Google Analytics:</strong> Anonymous usage analytics for app improvement</li>
+                <li><strong>Google AdMob:</strong> Advertising services with anonymous device identifiers</li>
+                <li><strong>Google Play Console:</strong> App performance monitoring and crash reporting</li>
+                <li><strong>Google Play Services:</strong> App authentication and security features</li>
+            </ul>
+
+            <div class="important-notice">
+                <h3 class="bold-heading">Advertising Policy - Important Notice:</h3>
+                <ul>
+                    <li><strong>Dynamic Ad Implementation:</strong> We reserve the right to add or remove advertisements at any time without prior notice to users</li>
+                    <li><strong>Google Ad Networks:</strong> Ads are served through Google's advertising networks (Google AdMob, Google Ad Manager)</li>
+                    <li><strong>Ad Personalization:</strong> Google may use your device information and usage patterns to show relevant ads</li>
+                    <li><strong>Ad Data:</strong> Google's advertising services collect data as per their own privacy policies</li>
+                    <li><strong>Revenue Purpose:</strong> Advertisement revenue supports continued development of free educational content</li>
+                    <li><strong>No Prior Notice Required:</strong> Advertising changes may be implemented through app updates or server-side configurations</li>
+                </ul>
+            </div>
+
+            <h3>Asset Loading and External Resources</h3>
+            <ul>
+                <li><strong>GitHub Repositories:</strong> Game assets (images, sounds) may be loaded from GitHub for functionality</li>
+                <li><strong>No Personal Data Transmission:</strong> Only game resources are fetched, no personal data is transmitted</li>
+                <li><strong>Educational Content:</strong> SVEEP educational materials loaded from secure sources</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Children's Privacy</h2>
+            <p>This educational game is designed to promote civic awareness and is suitable for all ages, including children. We are committed to protecting children's privacy:</p>
+            <ul>
+                <li>We do not knowingly collect personal information from children under 13</li>
+                <li>Player names are optional and stored locally only</li>
+                <li>No online interactions, chat features, or social media integration</li>
+                <li>The game operates in a safe, educational environment focused on voting awareness</li>
+                <li>Parents can delete all game data by uninstalling the app</li>
+                <li>Educational content is appropriate for all age groups</li>
+                <li>No inappropriate advertising targeting children</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Educational Content and Gaming Imagery Disclaimer</h2>
+            
+            <div class="important-notice">
+                <h3 class="bold-heading">Important Notice Regarding Game Content:</h3>
+                <ul>
+                    <li><strong>Educational Purpose Only:</strong> All imagery, icons, and content used in this game are purely for educational and electoral awareness purposes</li>
+                    <li><strong>SVEEP Mission:</strong> This game promotes Systematic Voters' Education and Electoral Participation as part of Election Commission of India initiatives</li>
+                    <li><strong>Fictional Representation:</strong> Game elements (tokens, dice, board positions) represent educational milestones in voting awareness</li>
+                    <li><strong>Cultural Sensitivity:</strong> All content respects Indian cultural values and democratic principles</li>
+                    <li><strong>Non-Political Content:</strong> The game maintains political neutrality while educating about voting processes</li>
+                    <li><strong>Appropriate Content:</strong> All educational materials are suitable for diverse audiences across India</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="legal-section">
+            <h2>Legal Jurisdiction and Disputes</h2>
+            
+            <h3 class="bold-heading">Governing Law and Jurisdiction:</h3>
+            <ul>
+                <li>This Privacy Policy and any disputes arising from the use of this application shall be governed by the <strong>laws of India</strong></li>
+                <li><strong>Exclusive Jurisdiction:</strong> Any legal disputes, claims, or arbitration proceedings related to this game or privacy policy shall be subject to the exclusive jurisdiction of the courts in <strong>Sri Ganganagar District, Rajasthan, India</strong></li>
+                <li>All legal proceedings must be conducted in <strong>Hindi or English</strong> languages</li>
+                <li>Users agree to submit to the jurisdiction of Sri Ganganagar District courts for any legal matters</li>
+                <li>This app complies with Election Commission of India guidelines for educational content</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Updates to This Privacy Policy</h2>
+            <p>We may update this privacy policy from time to time to reflect changes in our practices or legal requirements. When we do:</p>
+            <ul>
+                <li>The updated policy will be included in app updates</li>
+                <li>Continued use of the app constitutes acceptance of the updated policy</li>
+                <li>Material changes will be highlighted in app update notes</li>
+                <li>The "Last Updated" date will be revised accordingly</li>
+            </ul>
+
+            <div class="highlight">
+                <h3 class="bold-heading">Special Notice for Advertising Changes:</h3>
+                <ul>
+                    <li><strong>No Prior Notice Required:</strong> We may add, remove, or modify advertisements at any time without prior notice to users</li>
+                    <li><strong>Automatic Implementation:</strong> Advertising changes may be implemented through app updates or server-side configurations</li>
+                    <li><strong>Policy Updates:</strong> Addition or removal of ads may not always require a privacy policy update</li>
+                    <li><strong>User Acceptance:</strong> By continuing to use the app, you accept any advertising changes</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="contact-info">
+            <h2>Contact Information</h2>
+            <p>For questions, concerns, or requests regarding this privacy policy or the game, please contact:</p>
+
+            <h3>Developer Contact:</h3>
+            <p><strong>Name:</strong> Raman Kumar Asija<br>
+            <strong>Designation:</strong> Teacher<br>
+            <strong>Institution:</strong> GSSS Multipurpose, Sri Ganganagar<br>
+            <strong>Email:</strong> ramanasija369@gmail.com</p>
+
+            <h3>Official Contact:</h3>
+            <p><strong>Organization:</strong> जिला निर्वाचन कार्यालय श्रीगंगानगर<br>
+            (District Election Office Sri Ganganagar)<br>
+            <strong>Under Guidance of:</strong> District Election Officer, Sri Ganganagar<br>
+            <strong>SVEEP Nodal Officer:</strong> Sri Ganganagar District<br>
+            <strong>Purpose:</strong> Systematic Voters' Education and Electoral Participation</p>
+        </div>
+
+        <div class="legal-section">
+            <h2>Compliance and Legal</h2>
+            <p>This privacy policy is designed to comply with:</p>
+            <ul>
+                <li><strong>Google Play Store</strong> policies and Google AdMob policies</li>
+                <li><strong>Indian Information Technology Act, 2000</strong></li>
+                <li><strong>Digital Personal Data Protection Act, 2023</strong></li>
+                <li><strong>Election Commission of India</strong> guidelines for educational content</li>
+                <li><strong>SVEEP (Systematic Voters' Education and Electoral Participation)</strong> program requirements</li>
+                <li><strong>Advertising Standards Council of India (ASCI)</strong> guidelines</li>
+                <li>General data protection best practices for educational applications</li>
+            </ul>
+        </div>
+
+        <div class="game-info">
+            <h2>🎮 Game Information</h2>
+            <p><strong>Title:</strong> SVEEP Ludo Game<br>
+            <strong>Platform:</strong> Android<br>
+            <strong>Category:</strong> Educational Games - Civic Awareness<br>
+            <strong>Target Audience:</strong> All ages<br>
+            <strong>Educational Focus:</strong> Voting Awareness and Electoral Participation<br>
+            <strong>Language Support:</strong> English and Hindi</p>
+        </div>
+
+        <div class="highlight">
+            <h2>Acknowledgment</h2>
+            <p><strong>By downloading, installing, or using this game, you acknowledge that you have read, understood, and agree to be bound by this Privacy Policy.</strong></p>
+            <p>This privacy policy is effective as of the date listed above and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted in the updated app version.</p>
+            <p><strong>Educational Mission:</strong> This app supports the Election Commission of India's SVEEP initiative to promote informed and ethical voting among citizens of India.</p>
+        </div>
+    </div>
+</body>
+</html>
